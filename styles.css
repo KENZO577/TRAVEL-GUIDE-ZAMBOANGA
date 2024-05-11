@@ -44,6 +44,7 @@ img {
 }
 
 body {
+  background-image: url("https://raw.githubusercontent.com/KENZO577/CALENDAR/main/STUFF/Untitled.jpg");
   font-family: "Roboto", sans-serif;
 }
 
@@ -170,7 +171,6 @@ header .section__container {
 
 .banner__container {
   background-image:
-    url("https://raw.githubusercontent.com/KENZO577/CALENDAR/main/STUFF/Untitled.jpg");
     linear-gradient(
       rgba(35, 71, 103, 0.5),
       rgba(35, 71, 103, 0.5)
