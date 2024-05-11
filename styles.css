@@ -44,7 +44,6 @@ img {
 }
 
 body {
-  background-image: url('https://raw.githubusercontent.com/KENZO577/CALENDAR/main/STUFF/Untitled.jpg');
   font-family: "Roboto", sans-serif;
 }
 
@@ -170,11 +169,12 @@ header .section__container {
 }
 
 .banner__container {
-  background-image: linear-gradient(
+  background-image:
+    url("https://raw.githubusercontent.com/KENZO577/CALENDAR/main/STUFF/Untitled.jpg");
+    linear-gradient(
       rgba(35, 71, 103, 0.5),
       rgba(35, 71, 103, 0.5)
-    ),
-    url("assets/bg-2.jpg");
+    );
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
