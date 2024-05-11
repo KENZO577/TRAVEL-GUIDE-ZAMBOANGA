@@ -4,9 +4,9 @@
   --primary-color: #1E2CD5;
 --primary-color-dark: #E5265A;
   --secondary-color: #e8f1fa;
-  --text-dark: #282d31;
-  --text-light: #767268;
-  --extra-light: #f3f4f6;
+  --text-dark: #EAA60A;
+  --text-light:#EAA60A;
+  --extra-light: #4029E3;
 
   --max-width: 1200px;
 }
@@ -369,11 +369,6 @@ footer p {
   .display__card h4 {
     font-size: 1.5rem;
   }
-
-  .display__card p {
-    font-size: 1rem;
-  }
-}
 
   .display__card p {
     font-size: 1rem;
