@@ -44,6 +44,7 @@ img {
 }
 
 body {
+  background-image: url('https://raw.githubusercontent.com/KENZO577/CALENDAR/main/STUFF/Untitled.jpg');
   font-family: "Roboto", sans-serif;
 }
 
@@ -90,7 +91,6 @@ header {
       rgba(45, 92, 132, 0.5),
       rgba(45, 92, 132, 0.5)
     ),
-    url("https://raw.githubusercontent.com/KENZO577/ZAMBOANGA-TRAVEL-/main/images/ZAMBO.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
