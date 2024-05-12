@@ -1,15 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,500&display=swap");
 
 :root {
-  --primary-color: #db9a18;
---primary-color-dark: #db9a18;
-  --secondary-color: #d93732;
-  --text-dark: #EAA60A;
-  --text-light:#EAA60A;
-  --extra-light: #4029E3;
+  --primary-color: DarkSlateBlue;
+--primary-color-dark: SlateBlue;
+  --secondary-color: DeepPink;
+  --text-dark: GoldenRod;
+  --text-light:AliceBlue;
+  --extra-light:BlueViolet;
 
   --max-width: 1200px;
 }
+
 
 * {
   padding: 0;
