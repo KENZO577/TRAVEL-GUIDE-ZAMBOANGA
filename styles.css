@@ -240,7 +240,7 @@ header .section__container {
 
 .display__card i {
   font-size: 2rem;
-  color: var(--primary-color);
+  color: var(--text-dark);
 }
 
 .display__card h4 {
